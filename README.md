@@ -15,13 +15,13 @@ Apasionado por la transformación de datos en decisiones estratégicas. Especial
 ### 🛠️ Stack Tecnológico
 
 
-| Área | Herramientas |
+| Área | Herramientas y Lenguajes |
 | :--- | :--- |
-| **Lenguajes** | `Python` `SQL` `R` |
-| **BI & Visualización** | `Power BI` `Looker` `Excel (VBA/Macros)` |
-| **Bases de Datos** | `SQL Server` `MySQL` `PostgreSQL` |
-| **Diseño & Arquitectura** | `Figma` `Draw.io` `Prototipado UX/UI` |
-| **Gestión & Docs** | `Trello` `Control Office` `Documentación Técnica` |
+| **Lenguajes** | ![Python](https://shields.io) ![SQL](https://shields.io) ![R](https://shields.io) |
+| **BI & Visualización** | ![Power Bi](https://shields.io) ![Looker](https://shields.io) ![Excel](https://shields.io) |
+| **Bases de Datos** | ![SQL Server](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) |
+| **Diseño & Arq.** | ![Figma](https://shields.io) ![Draw.io](https://shields.io) |
+| **Gestión & Docs** | ![Trello](https://shields.io) ![Microsoft Office](https://shields.io) |
 
 ---
 
