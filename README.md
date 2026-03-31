@@ -17,17 +17,18 @@ Apasionado por la transformación de datos en decisiones estratégicas. Especial
 
 | Área | Herramientas y Lenguajes |
 | :--- | :--- |
-| **Lenguajes** | ![Python](https://shields.io) ![SQL](https://shields.io) ![R](https://shields.io) |
-| **BI & Visualización** | ![Power Bi](https://shields.io) ![Looker](https://shields.io) ![Excel](https://shields.io) |
-| **Bases de Datos** | ![SQL Server](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) |
-| **Diseño & Arq.** | ![Figma](https://shields.io) ![Draw.io](https://shields.io) |
-| **Gestión & Docs** | ![Trello](https://shields.io) ![Microsoft Office](https://shields.io) |
+| **Lenguajes** | `Python` `SQL` `R` |
+| **BI & Visualización** | `Power BI` `Looker` `Excel (VBA/Macros)` |
+| **Bases de Datos** | `SQL Server` `MySQL` `PostgreSQL` |
+| **Diseño & Arq.** | `Figma` `Draw.io` `Prototipado UX/UI` |
+| **Gestión & Docs** | `Trello` `Microsoft Office` `Documentación Técnica` |
 
 ---
 
 ### 📫 Contacto e Intereses
 *   🔭 Actualmente enfocado en **proyectos de analítica avanzada y automatización**.
 *   🌱 Perfeccionando modelos de **Machine Learning** aplicados a negocios.
-*   💬 ¿Hablamos de datos? Conéctate conmigo para colaborar en soluciones innovadoras.
+*   💬 ¿Hablamos de datos? Conéctate conmigo para colaborar.
 
 ---
+
