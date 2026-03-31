@@ -1,5 +1,3 @@
-# Portafolio David Malca Garcia 🤔
-
 # David Malca Garcia | Data Scientist & BI Analyst 📊
 
 Apasionado por la transformación de datos en decisiones estratégicas. Especialista en arquitectura de datos, visualización avanzada y modelado predictivo para inteligencia de negocios.
