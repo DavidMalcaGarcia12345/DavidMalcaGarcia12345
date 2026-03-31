@@ -5,7 +5,7 @@ Apasionado por la transformación de datos en decisiones estratégicas. Especial
 ---
 
 ### 🚀 Perfil Profesional
-*   **Data Science & Analytics:** Especialista en el stack de **Python** para ciencia de datos y manipulación de grandes volúmenes de información.
+*   **Data Science & Analytics:** Especialista intermedio en el stack de **Python** para ciencia de datos y manipulación de grandes volúmenes de información.
 *   **Business Intelligence:** Experto en la creación de dashboards de alto impacto con **Power BI** y **Looker**.
 *   **Arquitectura y Bases de Datos:** Diseño de soluciones robustas en **SQL Server** y **MySQL**.
 *   **Prototipado y Gestión:** Diseño de arquitectura en **Figma** y **Draw.io**, con gestión ágil en **Trello**.
