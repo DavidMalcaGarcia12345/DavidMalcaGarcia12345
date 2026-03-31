@@ -18,11 +18,11 @@
 
 | Área | Herramientas y Lenguajes |
 | :--- | :--- |
-| **Lenguajes** | `Python` `SQL` `R` |
-| **BI & Visualización** | `Power BI` `Looker` `Excel (VBA/Macros)` |
-| **Bases de Datos** | `SQL Server` `MySQL` `PostgreSQL` |
-| **Diseño & Arq.** | `Figma` `Draw.io` `Prototipado UX/UI` |
-| **Gestión & Docs** | `Trello` `Microsoft Office` `Documentación Técnica` |
+| **Lenguajes** | `Python` `SQL` `(Intermedio)`|
+| **BI & Visualización** | `Power BI` `Looker` `Excel` `(Intermedio)`|
+| **Bases de Datos** | `SQL Server` `MySQL` `PostgreSQL` `(Intermedio)`|
+| **Diseño & Arq.** | `Figma` `Draw.io` `Prototipado UX/UI` `(Intermedio)`|
+| **Gestión & Docs** | `Trello` `Microsoft Office` `Documentación Técnica` `(Intermedio)`|
 
 ---
 
