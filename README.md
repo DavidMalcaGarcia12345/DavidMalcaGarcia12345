@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Perfil Profesional
-*   **Experiencia:** +2 años liderando análisis de datos y soluciones de Business Intelligence.
+*   **Experiencia:** +2 años experiencia análisis de datos y soluciones de Business Intelligence.
 *   **Data Science & Analytics:** Especialista intermedio en el stack de **Python** para ciencia de datos y procesamiento de grandes volúmenes de información.
 *   **Business Intelligence:** Experto en dashboards estratégicos con **Power BI** y **Looker**.
 *   **Arquitectura y Bases de Datos:** Diseño de soluciones robustas en **SQL Server** y **MySQL**.
@@ -28,7 +28,7 @@
 
 ### 📫 Contacto e Intereses
 *   🔭 Actualmente enfocado en **proyectos de analítica avanzada y automatización**.
-*   🌱 Perfeccionando modelos de **Machine Learning** aplicados a negocios.
+*   🌱 Perfeccionando modelos de **Machine Learning** aplicados al negocios como contabilidad finanzas y retails.
 *   💬 ¿Hablamos de datos? Conéctate conmigo para colaborar en soluciones innovadoras.
 
 ---
